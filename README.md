@@ -100,8 +100,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or suggestions, please contact:
 
-- **Your Name**: [Your Email](mailto:ankushgupta1806@gmail.com)
-- **GitHub**: [YourGitHubUsername](https://github.com/AnkushGitRepo)
+- **ANKUSH GUPTA**: [Email](mailto:ankushgupta1806@gmail.com)
+- **GitHub**: [Account](https://github.com/AnkushGitRepo)
 
 ---
 
